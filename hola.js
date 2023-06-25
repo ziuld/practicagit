@@ -1,2 +1,3 @@
-var hola = "hello bracket [] !!";
-console.log(hola);
+// modified by Ziuld on today()
+var hello = "hello bracket [] !!";
+console.log(hello);
